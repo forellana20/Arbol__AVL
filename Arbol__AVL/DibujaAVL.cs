@@ -8,7 +8,7 @@ namespace SimuladorAVL
     {
         public AVL Raiz;
 
-        // Constructor
+        // Constructor principal
         public DibujaAVL()
         {
             Raiz = null;
